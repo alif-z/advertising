@@ -6,7 +6,7 @@ import pickle
 #and later load those files to get back the original objects.
 
 st.write("""
-# Iris Flower Prediction App
+# Sales Advertising
 
 This app wants to know the **Sales** of each product!
 """)
